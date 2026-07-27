@@ -1,8 +1,8 @@
- 📄 RAG PDF Chatbot
+ RAG PDF Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF documents and ask questions based on their content. The application retrieves relevant information from the uploaded document using embeddings and vector search before generating accurate, context-aware responses with a Large Language Model (LLM).
 
-## 🚀 Features
+ Features
 
 - Upload PDF documents
 - Extract and process text automatically
@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF 
 - Simple and interactive Gradio interface
 - Deployable on Hugging Face Spaces
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - Python
 - Gradio
@@ -25,7 +25,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF 
 - Hugging Face Spaces
 - PyPDF
 
-## 📂 Project Workflow
+ Project Workflow
 
 1. Upload a PDF document.
 2. Extract text from the PDF.
@@ -35,7 +35,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF 
 6. Retrieve relevant document chunks for each query.
 7. Generate grounded responses using an LLM via OpenRouter.
 
-## 📊 Project Highlights
+ Project Highlights
 
 - Implements Retrieval-Augmented Generation (RAG)
 - Uses vector similarity search for document retrieval
@@ -45,7 +45,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF 
 
 ```
 
-## 📸 Demo
+ Demo
 
 Upload a PDF and ask questions such as:
 
@@ -55,7 +55,7 @@ Upload a PDF and ask questions such as:
 - List the important findings.
 - What conclusions are presented?
 
-## 📁 Repository Structure
+Repository Structure
 
 ```
 .
@@ -65,7 +65,7 @@ Upload a PDF and ask questions such as:
 └── assets/
 ```
 
-## 🎯 Learning Outcomes
+Learning Outcomes
 
 This project helped me gain practical experience with:
 
@@ -78,9 +78,7 @@ This project helped me gain practical experience with:
 - Hugging Face Spaces
 - OpenRouter API Integration
 
-## 🤝 Acknowledgements
 
-Developed as part of the **Generative AI Internship** at **NeuroFive Solutions**.
 
  Live demo:
 https://ezzasaeed-rag-app.hf.space/
