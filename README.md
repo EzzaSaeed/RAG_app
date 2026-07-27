@@ -82,5 +82,5 @@ This project helped me gain practical experience with:
 
 Developed as part of the **Generative AI Internship** at **NeuroFive Solutions**.
 
-## 📜 Live demo:
+ Live demo:
 https://ezzasaeed-rag-app.hf.space/
