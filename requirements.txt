@@ -1,0 +1,6 @@
+gradio>=5.0
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
+openai
