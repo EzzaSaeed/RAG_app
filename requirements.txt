@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain-community
-langchain-openai
-langchain-text-splitters
-faiss-cpu>=1.14.3
-pypdf
-openai
-tiktoken
